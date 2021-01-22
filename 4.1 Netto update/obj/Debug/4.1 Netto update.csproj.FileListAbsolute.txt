@@ -1,0 +1,7 @@
+C:\Users\rafin\source\repos\SAS\4.1 Netto update\bin\Debug\4.1 Netto update.exe.config
+C:\Users\rafin\source\repos\SAS\4.1 Netto update\bin\Debug\4.1 Netto update.exe
+C:\Users\rafin\source\repos\SAS\4.1 Netto update\bin\Debug\4.1 Netto update.pdb
+C:\Users\rafin\source\repos\SAS\4.1 Netto update\obj\Debug\4.1 Netto update.csprojAssemblyReference.cache
+C:\Users\rafin\source\repos\SAS\4.1 Netto update\obj\Debug\4.1 Netto update.csproj.CoreCompileInputs.cache
+C:\Users\rafin\source\repos\SAS\4.1 Netto update\obj\Debug\4.1 Netto update.exe
+C:\Users\rafin\source\repos\SAS\4.1 Netto update\obj\Debug\4.1 Netto update.pdb
